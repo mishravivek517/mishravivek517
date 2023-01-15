@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mishravivek517
-- 👀 I’m interested in Developing Apps on  FLUTTER || ANDROID || KOTLIN
+- 👀 I’m interested in Developing Apps on ANDROID with KOTLIN || JAVA
 - 🌱 I’m currently learning flutter
 - 💞️ I’m Currently working with IBM
 - 📫 How to reach me  - 
