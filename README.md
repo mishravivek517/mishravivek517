@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mishravivek517
 - 👀 I’m interested in Developing Apps on ANDROID with KOTLIN || JAVA
 - 🌱 I’m currently learning flutter
-- 💞️ I’m Currently working with IBM
+- 💞️ I’m Currently working with JP Morgan Chase & Co
 - 📫 How to reach me  - 
 - Email - mishravivek517@gmail.com
 - Phone - 9131707129
