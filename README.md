@@ -3,7 +3,7 @@
 - 💞️ I’m Currently working with JP Morgan Chase & Co
 - 📫 How to reach me  - 
 - Email - mishravivek517@gmail.com
-- Phone - 9131707129
+- Phone - 9131707129 /9075660936
 
 <!---
 mishravivek517/mishravivek517 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
